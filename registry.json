@@ -1,5 +1,48 @@
 {
   "version": 1,
   "publicKey": "p8qse8b4dpTzqg4hyzcw2uusI3jNvXOCPsesMsnZwFM=",
-  "keys": {}
+  "keys": {
+    "KYB-ZEFAR-5MZRG-T85YG-WVAQ0": {
+      "hwid": null,
+      "signature": null,
+      "activated": null,
+      "revoked": false
+    },
+    "KYB-F93WY-YTVFQ-F1YV0-R6P8R": {
+      "hwid": null,
+      "signature": null,
+      "activated": null,
+      "revoked": false
+    },
+    "KYB-FB6FB-93BRH-N5ZRM-D93XB": {
+      "hwid": null,
+      "signature": null,
+      "activated": null,
+      "revoked": false
+    },
+    "KYB-Q5TJY-DVHA4-1JCBM-3XVY8": {
+      "hwid": null,
+      "signature": null,
+      "activated": null,
+      "revoked": false
+    },
+    "KYB-WRH0Y-9CBBB-557TE-9Q65R": {
+      "hwid": null,
+      "signature": null,
+      "activated": null,
+      "revoked": false
+    },
+    "KYB-QG74Z-CJKFA-XYKN4-6EZKK": {
+      "hwid": null,
+      "signature": null,
+      "activated": null,
+      "revoked": false
+    },
+    "KYB-44YP0-TZ5ZQ-8R5WA-TF3N8": {
+      "hwid": "f9c78b24a3a65bebefdfb063fd5c097012042ec5203917429be546b4852ec7f4",
+      "signature": "0FZuRIu\u002BlE5Qngiv1a\u002B0RizyRUhKUI8SzlrFH6BgrhTKYDn62SrkQJ9AiZfBWGebvUWKZOsq6mAoCNUn8Pi2BA==",
+      "activated": "2026-07-08T10:24:20.3842093Z",
+      "revoked": false
+    }
+  }
 }

@@ -43,6 +43,12 @@
       "signature": "0FZuRIu\u002BlE5Qngiv1a\u002B0RizyRUhKUI8SzlrFH6BgrhTKYDn62SrkQJ9AiZfBWGebvUWKZOsq6mAoCNUn8Pi2BA==",
       "activated": "2026-07-08T10:24:20.3842093Z",
       "revoked": false
+    },
+    "KYB-YPW5Y-FX23Z-SZVV3-AGY0E": {
+      "hwid": "2bfedd586549ffa5b6f52344e1331cda57ab2c0465b902dd4ac547eff69db204",
+      "signature": "MGaKI8MUn8n7TwrWcQW0bcL5LN9Jl6fg3jQCZQhpugw95uFww2TmX1sGWuG04Ry\u002BGD6u9jlX4arCSN49AiQVDA==",
+      "activated": "2026-07-09T07:51:52.2731428Z",
+      "revoked": false
     }
   }
 }

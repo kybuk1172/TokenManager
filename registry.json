@@ -49,6 +49,12 @@
       "signature": "MGaKI8MUn8n7TwrWcQW0bcL5LN9Jl6fg3jQCZQhpugw95uFww2TmX1sGWuG04Ry\u002BGD6u9jlX4arCSN49AiQVDA==",
       "activated": "2026-07-09T07:51:52.2731428Z",
       "revoked": false
+    },
+    "KYB-0T0TM-8TJ44-ERNFY-2ZRHQ": {
+      "hwid": "d3d0e7a668fc72d49ce15235c026dfe69b7ebbf7557b3cc863d2749ab4be4097",
+      "signature": "YQXGNd9ID5IZH7SEBDExgu5JzK2nCh7MusxyqI0ucHP2lrZlnvReG7oePFTVH1rHzxMnH9jyfaK/ZWvDWKq2AQ==",
+      "activated": "2026-07-13T03:24:53.0015579Z",
+      "revoked": false
     }
   }
 }

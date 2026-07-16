@@ -55,6 +55,12 @@
       "signature": "YQXGNd9ID5IZH7SEBDExgu5JzK2nCh7MusxyqI0ucHP2lrZlnvReG7oePFTVH1rHzxMnH9jyfaK/ZWvDWKq2AQ==",
       "activated": "2026-07-13T03:24:53.0015579Z",
       "revoked": false
+    },
+    "KYB-T5WVS-D6Y7M-11PA1-HTVKH": {
+      "hwid": "1ce200ee5ec4c5d20cbc609bfbf2d8d8d73299a1e93a38b8d5d4ba3f0ac46799",
+      "signature": "ONtsYQf7v/laaWSLOVgcOrNM2MombUU/UNh4eHYeco8Li3fp8MjGSmQKuEJ9D/L8bCkmTaBlP1CtFk/V\u002BXARBw==",
+      "activated": "2026-07-16T05:21:39.7593699Z",
+      "revoked": false
     }
   }
 }
